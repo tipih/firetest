@@ -17,6 +17,8 @@ void setup() {
   delay(1000);  //Take some time to open up the Serial Monitor
 }
 
+
+
 void loop() {   
   // Loop through rainbow colors
   Serial.println("In Loop");
