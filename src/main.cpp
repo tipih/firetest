@@ -1,6 +1,8 @@
 #include <Arduino.h>
 #include <FastLED.h>
 
+
+
 // Only one led is connected
 #define NUM_LEDS 1
 
